@@ -16,6 +16,7 @@ I’m a practicing  fourth-year Software Engineering student at Applied Science 
   Haskell, Rust, Elm, Java
 
 ## Blog
+* [Functional Programming: The Simple Version](https://medium.com/heavenlyx/functional-programming-the-simple-version-63fe10678f6e) (2020)
 * [A Guide to Scala 3](https://medium.com/heavenlyx/a-guide-to-scala-3-8a3bad7eee71) (2019)
 * [The Scala Collections Library](https://medium.com/heavenlyx/the-scala-collections-library-173ca624fb8d) (2019)
 * [Parsing The World with Rust and POM](https://medium.com/heavenlyx/parsing-the-world-with-rust-and-pom-77e0e8b5313d) (2019)
