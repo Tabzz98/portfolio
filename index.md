@@ -27,7 +27,7 @@ I’m a practicing  fourth-year Software Engineering student at Applied Science 
 
 ## What I Do
 ### Development Tools
-In July 2019, I co-founded [Heavenly-x](https://heavenlyx.com/): a company dedicated to building great software development tools. We're primarily working on a new language for specifying business requirements, and then translating them to an entire back-end system. The goal is to remove much of the toil that server-side application developers have to deal with, and make it much easier for front-end developers and data scientists to focus on what they care about.
+In July 2019, I co-founded [Pragma](https://pragmalang.com/): a company dedicated to building great software development tools. We're primarily working on a new language for specifying business requirements, and then translating them to an entire back-end system. The goal is to remove much of the toil that server-side application developers have to deal with, and make it much easier for front-end developers and data scientists to focus on what they care about.
 
 ### Web Development
 In March 2018, I was hired as a Web developer at [CodeObia](http://codeobia.com/), Amman, where I practiced building full-stack web applications, mainly using JavaScript on both ends.
