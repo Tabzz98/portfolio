@@ -1,6 +1,3 @@
-## About
-I’m a practicing  fourth-year Software Engineering student at Applied Science University, and I'm a tech nerd. I like  technology, and I love learning about it. I also like creating technology, and sharing it.
-
 ## Interests
 * Functional Programming
 * Programming language design
