@@ -1,6 +1,6 @@
 ## What I Do
-### Development Tools
-In July 2019, I co-founded [Pragma](https://pragmalang.com/): a company dedicated to building great software development tools. We're primarily working on a new language for specifying business requirements, and then translating them to an entire back-end system. The goal is to remove much of the toil that server-side application developers have to deal with, and make it much easier for front-end developers and data scientists to focus on what they care about.
+### Language Design & Implementation
+In July 2019, I co-founded [Pragma](https://pragmalang.com/): a company dedicated to building great software development tools. We're primarily working on a new language for building GraphQL APIs through schema-driven development.
 
 ### Web Development
 In March 2018, I was hired as a Web developer at [CodeObia](http://codeobia.com/), Amman, where I practiced building full-stack web applications, mainly using JavaScript on both ends.
@@ -12,12 +12,10 @@ Working at CodeObia also involved mobile application development using [NativeSc
 I left CodeObia in November 2018 to study more advanced areas of computer science and mathematics.
 
 ## Interests
-* Functional Programming
+* Functional programming
 * Programming language design
-* Full stack Web application development
 * Distributed systems and parallel computation
 * Machine learning
-* Serverless technologies
 
   ### Primary Languages
   Scala, JavaScript
@@ -36,15 +34,11 @@ I left CodeObia in November 2018 to study more advanced areas of computer scienc
 * [FeathersJS For The Beginner: Basic concepts](https://medium.com/@muhammadtabaza/feathersjs-for-the-beginner-basic-concepts-b5abba2e888a) (2018)
 
 ## Education
-* Applied Science University, Amman (2016 - 2020)
+  Applied Science University, Amman (2016 - 2020)
 
   Bachelor’s degree in Software Engineering
 
   [Graduation Project](Graduation Project.pdf)
-
-* Al-Ridwan schools, Amman (2005 - 2016)
-
-  High school diploma
 
 
 ---
